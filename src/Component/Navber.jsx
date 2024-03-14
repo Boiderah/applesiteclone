@@ -11,15 +11,12 @@ const Navber = ({bgcol, txtcol}) => {
           <Link to={'/'}>{bgcol=="white"?<img src={ggf} /> :<img src="\resources\" alt="" />}</Link>
           <p>Store</p>
           <Link to={'/mac'}><p>Mac</p></Link>
+          <p>ipad</p>
+          <p> iphone</p>
+          <p>support</p>
           <Link to={'/wheretobuy'}><p>where to buy</p></Link>
-          <p>iphone</p>
-          <p> watch</p>
-          <p>vision</p>
-          <p>Airpods</p>
-          <p> Tv & Home</p>
-          <p>Entertainment</p>
-          <p>Accesories</p>
-          <p>Support</p>
+          
+        
         </div>
       </div>
     </>

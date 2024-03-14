@@ -12,8 +12,12 @@
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    border: 1px solid red;
-    gap: 5px;
+    /* border: 1px solid red; */
+    gap: 13px;
+  }
+  .nav Link{
+    color: azure;
+    text-decoration: none;
   }
   /* img {
     width: 20px;
