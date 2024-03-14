@@ -14,7 +14,7 @@ const Navber = ({bgcol, txtcol}) => {
           <p>ipad</p>
           <p> iphone</p>
           <p>support</p>
-          <Link to={'/Wheretobuy'}><p>where to buy</p></Link>
+          <Link to={'/Wheretobuy'}><p>Where to buy</p></Link>
           
         
         </div>

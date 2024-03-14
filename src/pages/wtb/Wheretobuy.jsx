@@ -1,8 +1,8 @@
 import React from 'react'
 import Navber from '../../Component/Navber'
-import "./wheretobuy.css"
+import "./Wheretobuy.css"
 
-const wheretobuy = () => {
+const Wheretobuy = () => {
   return (
     <div>
       <Navber />
@@ -10,4 +10,4 @@ const wheretobuy = () => {
   )
 }
 
-export default wheretobuy
+export default Wheretobuy

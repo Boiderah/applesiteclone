@@ -13,11 +13,13 @@
     justify-content: space-around;
     flex-direction: row;
     /* border: 1px solid red; */
-    gap: 13px;
+    gap: 10px;
   }
-  .nav Link{
-    color: azure;
-    text-decoration: none;
+  .nav p {
+    color: #898989;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 8px;
   }
   /* img {
     width: 20px;
