@@ -1,0 +1,134 @@
+#Home .sec1{    
+    background-image: url("../../assets/asset0.jpeg");
+    background-size: cover;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+#sec2{
+    background-image: url("../../assets/asset 1.jpeg");
+    background-size: cover;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#sec3{
+    background-image: url("../../assets/asset 2.jpeg");
+    background-size: cover;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#uptext{
+    text-align: center;
+    font-size: 8vh;
+    font-weight: 500;
+    line-height: 30px;
+    margin-top: 50px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
+
+#midtext{
+    text-align: center;
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vh;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+#bt{
+    text-align: center;
+    margin-top: 10px;
+    line-height: 29px;
+    font-style: normal;
+    font-size: 21px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(0, 102, 204);
+
+}
+
+#mid15{
+    text-align: center;
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vh;
+    font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+
+}
+
+#up15{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 8vh;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 50px;
+    color: white;
+    font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#lu{
+    background-image: url(../../assets/asset3.jpeg);
+    width: 50vw;
+    height: 70vh;
+}
+
+#luru{
+    display: flex;
+}
+#ru{
+    background-image: url(../../assets/asset4.jpeg);
+    width: 50vw;
+    height: 70vh;
+}
+#lbrb{
+    display: flex;
+}
+#lb{
+    background-image:url(../../assets/asset6.jpeg);
+    /* background-image: url(../../assets/asset5.png); */
+    width: 50vw;
+    height: 70vh;
+}
+#rb{
+    background-image: url(../../assets/asset7.jpeg);
+    width: 50vw;
+    height: 70vh;
+}
+#lut{
+    text-align: center;
+    font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 5vh;
+    margin-top: 25px;
+    line-height: 25px;
+}
+
+#lmt{
+    text-align: center;
+    font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    font-size: 3vh;
+}
+
+#lbt{
+text-align: center;
+font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+margin-top: 15px;
+font-weight: 400;
+color: rgb(0, 102, 204);
+font-size: 3vh;
+
+}
